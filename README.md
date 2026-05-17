@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Adeel Musa 👋
+# Hi there, I'm Adeel Musa 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vMultiline=false&width=600&lines=Full+Stack+Web+Developer;Data+Science+%26+AI+Explorer;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
@@ -14,11 +14,9 @@
 
 ## 👨‍💻 About Me
 
-> *"Code is not just syntax — it's the language of solutions."*
-
 - 🎓 BS Software Engineering @ **Minhaj University, Lahore**
 - 💼 **Full Stack Web Developer** with real-world professional experience
-- 📊 Expanding expertise into **Data Science & AI** — Python, Pandas, ML
+- 📊 Expanding expertise into **Data Science & AI** 
 - 🌍 **Available for Remote Work** — flexible with time zones
 - 🤝 Open to **Freelance, Contract & Full-time Remote Opportunities**
 - ⚡ I build fast, clean, and scalable solutions that actually work
@@ -36,8 +34,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend Development
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
@@ -60,11 +56,11 @@
 ![Node-RED](https://img.shields.io/badge/-Node--RED-8F0000?style=flat&logo=node-red&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
 ![KepServerEX](https://img.shields.io/badge/-KepServerEX-0078D4?style=flat&logo=kepware&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -77,7 +73,7 @@
 > - 📡 Live data acquisition via **KepServerEX** (OPC UA/DA protocol)
 > - 🔄 Data pipeline built with **Node-RED**
 > - 🗄️ Time-series data stored in **InfluxDB**
-> - 📊 Interactive real-time dashboards built with **Plotly**
+> - 📊 Interactive real-time dashboards built with **React + Django**
 > - ⚡ Per-second data refresh — production-grade industrial system
 
 `Python` `Node-RED` `InfluxDB` `KepServerEX` `Plotly` `Real-Time Data`
