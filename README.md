@@ -76,30 +76,8 @@
 > - 📊 Interactive real-time dashboards built with **React + Django**
 > - ⚡ Per-second data refresh — production-grade industrial system
 
-`Python` `Node-RED` `InfluxDB` `KepServerEX` `Plotly` `Real-Time Data`
+`Python` `Node-RED` `InfluxDB` `KepServerEX` `Real-Time Data`
 
-### 🌐 [Portfolio Website](https://adeel-musa.github.io/)
-> Modern, responsive personal portfolio with clean UI/UX design
-
-`HTML5` `CSS3` `JavaScript` `Bootstrap`
-
-### 📊 More Projects Coming Soon!
-> Currently building Data Science & AI projects — stay tuned!
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adeel-musa&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeel-musa&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeel-musa&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
----
 
 ## 🌍 Let's Connect & Collaborate
 
