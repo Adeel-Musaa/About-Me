@@ -16,7 +16,7 @@
 
 - 🎓 BS Software Engineering @ **Minhaj University, Lahore**
 - 💼 **Full Stack Web Developer** with real-world professional experience
-- 📊 Expanding expertise into **Data Science & AI** 
+- 📊 Expanding expertise into **Data Science & AI**
 - 🌍 **Available for Remote Work** — flexible with time zones
 - 🤝 Open to **Freelance, Contract & Full-time Remote Opportunities**
 - ⚡ I build fast, clean, and scalable solutions that actually work
