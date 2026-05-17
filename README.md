@@ -1,13 +1,14 @@
 # Hi there, I'm Adeel Musa 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vMultiline=false&width=600&lines=Full+Stack+Web+Developer;Data+Science+%26+AI+Explorer;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vMultiline=false&width=600&lines=Full+Stack+Web+Developer;Data+Science+%26+AI+Explorer;IoT+%26+Real-Time+Systems+Engineer;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.........../"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/Muhammad-Adeel-Musa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:adeelmusa44@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://adeel-musa.github.io/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://gitlab.com/adeelmusa44"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 </p>
 
 ---
@@ -16,7 +17,8 @@
 
 - 🎓 BS Software Engineering @ **Minhaj University, Lahore**
 - 💼 **Full Stack Web Developer** with real-world professional experience
-- 📊 Expanding expertise into **Data Science & AI** 
+- 🏭 Built production systems for **Dawn Bread** & **Unilever Pakistan**
+- 📊 Expanding expertise into **Data Science & AI**
 - 🌍 **Available for Remote Work** — flexible with time zones
 - 🤝 Open to **Freelance, Contract & Full-time Remote Opportunities**
 - ⚡ I build fast, clean, and scalable solutions that actually work
@@ -36,11 +38,14 @@
 ### ⚙️ Backend Development
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
 
 ### 🐍 Data Science & AI
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -54,29 +59,99 @@
 
 ### ⚡ IoT & Real-Time Data Systems
 ![Node-RED](https://img.shields.io/badge/-Node--RED-8F0000?style=flat&logo=node-red&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
 ![KepServerEX](https://img.shields.io/badge/-KepServerEX-0078D4?style=flat&logo=kepware&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### ⚡ Live Energy Monitoring System
+### ⚡ Energy Monitoring System — Dawn Bread *(Multinational FMCG)*
 > Real-time industrial energy monitoring dashboard with **per-second data updates**
 >
 > - 📡 Live data acquisition via **KepServerEX** (OPC UA/DA protocol)
 > - 🔄 Data pipeline built with **Node-RED**
 > - 🗄️ Time-series data stored in **InfluxDB**
-> - 📊 Interactive real-time dashboards built with **React + Django**
+> - 📊 Interactive real-time dashboards with **Plotly**
 > - ⚡ Per-second data refresh — production-grade industrial system
 
-`Python` `Node-RED` `InfluxDB` `KepServerEX` `Real-Time Data`
+`React` `Laravel` `InfluxDB` `Node-Red` `MSSQL` `OPC-UA`
+
+---
+
+### ⚡ Energy Monitoring System — Unilever DSF-UPFL *(Global Corporation)*
+> Enterprise-grade EMS deployed at Unilever Pakistan factory
+>
+> - 📡 OPC-UA protocol for live machine data acquisition
+> - 🔄 Real-time data pipeline via **Node-RED**
+> - 🗄️ Time-series storage in **InfluxDB**
+> - 📊 Live dashboards with trend analytics and alerts
+
+`React` `Laravel` `InfluxDB` `MSSQL` `Node-red`
+
+---
+
+### 👁️ AI Vision Inspection System — Unilever DSF-UPFL *(Quality Control)*
+> Automated packaging quality control using computer vision
+>
+> - 📷 Camera-based real-time packing line monitoring
+> - ✅ Detects **Good vs Defective** packs automatically
+> - 🔢 Per-second unit counting on production line
+> - ⚙️ Fully automated — zero manual inspection needed
+
+`React` `Python` `Real-Time Processing`
+
+---
+
+### 🏥 Hospital Management System
+> Complete full-stack hospital management solution
+>
+> - 👤 Patient records, appointments & billing management
+> - 🔐 Role-based access control for staff & admin
+> - 📊 Analytics dashboard for hospital operations
+
+`Django` `React` `MSSQL` `Python`
+
+---
+
+### 💰 Home Expense Manager
+> Daily income & expense tracking with visual analytics
+>
+> - 📈 Visual analytics with category breakdown
+> - 📅 Monthly reports & budget alerts
+> - 🏠 Household financial management system
+
+`Django` `React` `MSSQL` 
+
+---
+
+### 🎓 Student Management System
+> Comprehensive academic administration platform
+>
+> - 📋 Enrollment, attendance & grade management
+> - 💳 Fee records & automated report generation
+> - 👥 Multi-role access for admin, teachers & students
+
+`Django` `React` `MSSQL` 
+
+---
+
+### 🤖 AI Material Prediction System *(In Progress)*
+> ML model predicting optimal material quantities for manufacturing
+>
+> - 🧠 AI engine trained on historical production data
+> - 📊 Recommends precise material inputs automatically
+> - 🏭 Built for real industrial manufacturing use case
+
+`Python` `Scikit-Learn` `TensorFlow` `Pandas`
+
+---
 
 
 ## 🌍 Let's Connect & Collaborate
