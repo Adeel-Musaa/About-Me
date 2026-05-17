@@ -1,7 +1,7 @@
 # Hi there, I'm Adeel Musa 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vMultiline=false&width=600&lines=Full+Stack+Web+Developer;Data+Science+%26+AI+Explorer;IoT+%26+Real-Time+Systems+Engineer;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vMultiline=false&width=600&lines=Full+Stack+Web+Developer;Data+Science+%26+AI+Explorer;IoT+%26+Real-Time+Systems+Engineer;Building+the+Future+with+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
