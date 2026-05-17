@@ -11,7 +11,6 @@
   <a href="https://www.fiverr.com/adeelmusa"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
   <a href="https://www.upwork.com/freelancers/adeelmusa"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
 </p>
----
 
 ## 👨‍💻 About Me
 
@@ -22,8 +21,6 @@
 - 🌍 **Available for Remote Work** — flexible with time zones
 - 🤝 Open to **Freelance, Contract & Full-time Remote Opportunities**
 - ⚡ I build fast, clean, and scalable solutions that actually work
-
----
 
 ## 🛠️ Technical Stack
 
@@ -68,8 +65,6 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
----
-
 ## 🚀 Featured Projects
 
 ### ⚡ Energy Monitoring System — Dawn Bread *(Multinational FMCG)*
@@ -83,7 +78,6 @@
 
 `React` `Laravel` `InfluxDB` `Node-Red` `MSSQL` `OPC-UA`
 
----
 
 ### ⚡ Energy Monitoring System — Unilever DSF-UPFL *(Global Corporation)*
 > Enterprise-grade EMS deployed at Unilever Pakistan factory
@@ -95,7 +89,6 @@
 
 `React` `Laravel` `InfluxDB` `MSSQL` `Node-red`
 
----
 
 ### 👁️ AI Vision Inspection System — Unilever DSF-UPFL *(Quality Control)*
 > Automated packaging quality control using computer vision
@@ -107,8 +100,6 @@
 
 `React` `Python` `Real-Time Processing`
 
----
-
 ### 🏥 Hospital Management System
 > Complete full-stack hospital management solution
 >
@@ -117,8 +108,6 @@
 > - 📊 Analytics dashboard for hospital operations
 
 `Django` `React` `MSSQL` `Python`
-
----
 
 ### 💰 Home Expense Manager
 > Daily income & expense tracking with visual analytics
@@ -129,7 +118,6 @@
 
 `Django` `React` `MSSQL` 
 
----
 
 ### 🎓 Student Management System
 > Comprehensive academic administration platform
@@ -140,7 +128,6 @@
 
 `Django` `React` `MSSQL` 
 
----
 
 ### 🤖 AI Material Prediction System *(In Progress)*
 > ML model predicting optimal material quantities for manufacturing
@@ -151,9 +138,6 @@
 
 `Python` `Scikit-Learn` `TensorFlow` `Pandas`
 
----
-
-
 ## 🌍 Let's Connect & Collaborate
 
 I'm always open to:
@@ -161,8 +145,6 @@ I'm always open to:
 - 🤝 **Collaborations** on Data Science, AI & IoT projects
 - 🏭 **Industrial Data & Real-Time Systems** consulting
 - 🎯 **Freelance & Contract** opportunities worldwide
-
----
 
 <p align="center">
   <i>⭐ If you find my work interesting, feel free to star my repositories!</i>
