@@ -16,13 +16,12 @@
 
 > *"Code is not just syntax — it's the language of solutions."*
 
-- 🎓 BS Software Engineering @ **Minhaj University, Lahore** *(5th Semester)*
-- 💼 Working as a **Web Developer & Data Handler** — real-world experience
-- 🌱 Transitioning into **Data Science & Artificial Intelligence**
-- 🎯 Goal: **MS in Data Science from Germany by 2027**
-- 🔭 Currently building projects in **Python & Data Analysis**
-- 🌍 Open to **Remote Opportunities & International Collaborations**
-- ⚡ Fun fact: I turn coffee and late nights into working applications
+- 🎓 BS Software Engineering @ **Minhaj University, Lahore**
+- 💼 **Full Stack Web Developer** with real-world professional experience
+- 📊 Expanding expertise into **Data Science & AI** — Python, Pandas, ML
+- 🌍 **Available for Remote Work** — flexible with time zones
+- 🤝 Open to **Freelance, Contract & Full-time Remote Opportunities**
+- ⚡ I build fast, clean, and scalable solutions that actually work
 
 ---
 
@@ -100,5 +99,3 @@ I'm always open to:
 <p align="center">
   <i>⭐ If you find my work interesting, feel free to star my repositories!</i>
 </p>
-
-
